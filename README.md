@@ -38,7 +38,8 @@ certified data analyst and web developer.
 [email](mailto:mefiras@gmail.com), or [LinkedIn](https://www.linkedin.com/in/mfetaki/)
 
 <!--
-**mfetaki/mfetaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mfetaki/mfetaki** is a ✨ _special_ ✨ repository because its `README.md` 
+(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
